@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an eager for knowledge, self-driven developer, who loves to create and to work on new ideas. Do you have any? Please, stay in touch!
+I'm an eager-for-knowledge developer, who loves to create and to work on new ideas. Do you have any? Please, stay in touch!
 
 - 🔭 Currently working as Software Developer at X-Team, focusing on front-end for our client Kaplan.
 - 🌱 Improving my React Native skills
