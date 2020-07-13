@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**douglas-pires/douglas-pires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I'm an eager for knowledge, self-driven developer, who loves to create and to work on new ideas. Do you have any? Please, stay in touch!
 
 - 🔭 Currently working as Software Developer at X-Team, focusing on front-end for our client Kaplan.
@@ -17,4 +14,3 @@ I'm an eager for knowledge, self-driven developer, who loves to create and to wo
 }
 ```
 - ⚡ Fun fact: I love parmegiana
--->
