@@ -13,4 +13,4 @@ I'm an eager-for-knowledge developer, who loves to create and to work on new ide
   website: 'douglaspires.com'
 }
 ```
-- ⚡ Fun fact: I love parmigiana
+- ⚡ Fast fact: I love parmigiana
