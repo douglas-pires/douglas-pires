@@ -14,3 +14,5 @@ I'm an eager-for-knowledge developer, who loves to create and to work on new ide
 }
 ```
 - ⚡ Fast fact: I love parmigiana
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=douglas-pires&show_icons=true&theme=dark)](https://github.com/douglas-pires)
