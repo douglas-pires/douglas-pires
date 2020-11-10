@@ -22,6 +22,3 @@ I'm an eager-for-knowledge developer, who loves to create and to work on new ide
 ### Top langs
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglas-pires)](https://github.com/douglas-pires)
-
-
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=douglas-pires)](https://github.com/douglas-pires)
