@@ -18,3 +18,10 @@ I'm an eager-for-knowledge developer, who loves to create and to work on new ide
 ### My stats
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=douglas-pires&show_icons=true&theme=radical)](https://github.com/douglas-pires)
+
+### Top langs
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglas-pires)](https://github.com/douglas-pires)
+
+
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=douglas-pires)](https://github.com/douglas-pires)
