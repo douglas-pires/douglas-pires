@@ -17,4 +17,4 @@ I'm an eager-for-knowledge developer, who loves to create and to work on new ide
 
 ### My stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=douglas-pires&show_icons=true&theme=radical)](https://github.com/douglas-pires)
+[![Doug's github stats](https://github-readme-stats.vercel.app/api?username=douglas-pires&show_icons=true&theme=radical&count_private=true)](https://github.com/douglas-pires)
