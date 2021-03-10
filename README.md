@@ -9,7 +9,7 @@ I'm an eager-for-knowledge developer, who loves to create and to work on new ide
 ```javascript
 {
   email: 'douglas.pires@live.com',
-  linkedin: 'linkedin.com/in/dpiresvilela/'
+  linkedin: 'linkedin.com/in/dpiresvilela/',
   website: 'douglaspires.com'
 }
 ```
