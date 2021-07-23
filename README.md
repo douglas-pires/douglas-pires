@@ -14,3 +14,5 @@ I'm an eager-for-knowledge developer, who loves to create and to work on new ide
 ### My stats
 
 [![Doug's github stats](https://github-readme-stats.vercel.app/api?username=douglas-pires&show_icons=true&theme=radical&count_private=true)](https://github.com/douglas-pires)
+
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=douglas-pires)](https://github.com/anuraghazra/github-readme-stats)
